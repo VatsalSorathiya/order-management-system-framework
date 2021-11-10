@@ -13,10 +13,13 @@
 7. `Manage Customer` – the customer can register and update their profile. In short, this system has a customer management system feature.
 
 ### How To Run The Order Management System Project in Django with Source Code?
-- `Step 1` : Extract/unzip the file
-- `Step 2` : Go inside the project folder, open cmd and type the following commands to install Django Framework and run the webserver:
-pip install -r requirements.txt
-python manage.py runserver
+- `Step 1` : *Extract/unzip* the file
+- `Step 2` : *Go inside the project folder*, *open cmd and type the following commands* to install Django Framework and *run the webserver*:
+`pip install -r requirements.txt`
+`python manage.py runserver`
 - `Step 3` : Finally, open the browser and go to http://127.0.0.1:8000/.
+
+
+
 
 
