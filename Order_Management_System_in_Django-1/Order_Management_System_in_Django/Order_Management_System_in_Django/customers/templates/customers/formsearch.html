@@ -1,0 +1,18 @@
+
+
+  <form method="GET" action="{% url 'customer_app:search' %}" id="js-search-form" class="form-inline" >
+{% csrf_token %}
+   
+    <input class="form-control mt-2"  type="search" name="query" placeholder="Search..." aria-label="Search"
+    aria-describedby="basic-addon2" />
+
+ 
+
+<button class="btn btn-dark mt-2">Search</button>
+
+</form>
+
+
+
+
+
